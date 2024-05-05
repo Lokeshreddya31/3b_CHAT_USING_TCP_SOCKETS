@@ -38,7 +38,11 @@ while True:
 ```
 ## OUPUT
 ### CLIENT:
+![image](https://github.com/Lokeshreddya31/3b_CHAT_USING_TCP_SOCKETS/assets/144870682/b01c9a67-1691-4e1f-93b5-b3efef07b212)
+
 ### SERVER:
+![image](https://github.com/Lokeshreddya31/3b_CHAT_USING_TCP_SOCKETS/assets/144870682/841b9923-8579-4e33-bca0-3a31bfce3029)
+
 ## RESULT
 Thus, the python program for creating Chat using TCP Sockets Links was successfully 
 created and executed.
